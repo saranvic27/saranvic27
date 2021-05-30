@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saranvic27
 - 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning Btech IT
+- 🌱 I’m currently pursuing Btech IT
 - 💞️ I’m looking to collaborate on ethical hackers
 - 📫 How to reach me my insta ID --  _._._s_a_r_a_n_._._
 
